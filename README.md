@@ -1,5 +1,8 @@
 # test-todo
 
+There is no initial commit in this project.
+Please wait until I create the basic features. 
+
 ## Project setup
 ```
 npm install
